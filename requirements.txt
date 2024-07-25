@@ -1,0 +1,10 @@
+streamlit==1.36.0
+langchain-community==0.2.10
+langchain==0.2.11
+pypdf==4.3.1
+sentence-transformers==3.0.1
+torch==2.3.1
+faiss-cpu==1.8.0.post1
+langchain==0.2.11
+youtube-transcript-api==0.6.2
+pytube==15.0.0
